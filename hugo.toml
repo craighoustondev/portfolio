@@ -1,4 +1,4 @@
-baseURL = 'https://craig-houston.blog//'
+baseURL = 'https://craig-houston.blog/'
 languageCode = 'en-us'
 title = 'Craig Houston'
 theme = 'PaperMod'
