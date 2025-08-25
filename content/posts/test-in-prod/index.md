@@ -2,13 +2,12 @@
 title: "How testing in production helps truly solve your customers problems"
 date: 2025-08-23T22:30:00+01:00
 draft: true
+summary: "In this post, I’ll share how testing in production and working closely with users has helped me deliver changes that truly work for customers."
 ---
 
 Ever shipped a feature that didn’t solve your customers problem or struggled to measure whether it made any difference at all?
 
 In this post, I’ll share how testing in production and working closely with users has helped me close that gap and deliver changes that truly work for customers.
-
-<!--more-->
 
 ## What does it mean to test in production?
 
