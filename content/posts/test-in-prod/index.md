@@ -1,7 +1,7 @@
 ---
 title: "How testing in production helps truly solve your customers problems"
-date: 2025-08-23T22:30:00+01:00
-draft: true
+date: 2025-08-25
+draft: false
 summary: "In this post, I’ll share how testing in production and working closely with users has helped me deliver changes that truly work for customers."
 ---
 
@@ -57,7 +57,7 @@ Monitoring tells you what’s happening, but it doesn’t always explain why. Th
 
 ## Listen to your users
 
-“A modern software engineer’s job is not done until they have watched users use their code in production.” ([Charity Majors](https://increment.com/testing/i-test-in-production/))
+> “A modern software engineer’s job is not done until they have watched users use their code in production.” ([Charity Majors](https://increment.com/testing/i-test-in-production/))
 
 In the last year, I have had lots of conversations with users at various points of delivery. We speak to customers before we have even written a single line of code to help us to understand their problem and what their current workflow looks like. 
 
