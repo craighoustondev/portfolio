@@ -4,7 +4,7 @@ title = 'Craig Houston'
 theme = 'PaperMod'
 
 [params]
-  homeInfoParams = { Title = "Hi 👋", Content = "I'm a Senior Software Engineer..." }
+  homeInfoParams = false
   ShowReadingTime = true
   ShowCodeCopyButtons = true
 
