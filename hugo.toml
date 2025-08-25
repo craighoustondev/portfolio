@@ -1,6 +1,6 @@
 baseURL = 'https://craig-houston.blog//'
 languageCode = 'en-us'
-title = 'Your Name'
+title = 'Craig Houston'
 theme = 'PaperMod'
 
 [params]
