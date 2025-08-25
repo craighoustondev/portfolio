@@ -47,7 +47,8 @@ I value making space for diverse opinions and perspectives. I have lost count of
 
 Whilst software delivery takes up a lot of my time, it doesn't consume my entire life. My other interests include:
 
-* Spending time with my wife and daughter
-* Playing guitar - I have previously played in "pub bands" but more recently I just play for my own benefit
-* Going to gigs - I love listening to music at home but there's nothing quite like watching a band at the top of their game in the flesh
-* Football - I have played regularly my entire adult life but these days I am mostly consigned to watching on TV
+* 👨‍👩‍👧 Spending time with my wife and daughter
+* 🎸 Playing guitar - I have previously played in "pub bands" but more recently I just play for my own benefit
+* 🎵 Going to gigs - I love listening to music at home but there's nothing quite like watching a band at the top of their game in the flesh
+* ⚽ Football - I have played regularly my entire adult life but these days I am mostly consigned to watching on TV
+* 🐕 Walking Dusty, my Cavalier King Charles Spaniel 
