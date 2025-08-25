@@ -17,9 +17,9 @@ You can reach out to me on <a href="https://www.linkedin.com/in/craig-houston-95
 
 ## My values
 
-To paraphrase <a href="https://markmanson.net/" target="_blank" rel="noopener noreferrer">Mark Manson</a>, values are, by definition, a belief that something is good or desirable and worth striving for, regardless of context or circumstance.
+To paraphrase <a href="https://markmanson.net/" target="_blank" rel="noopener noreferrer">Mark Manson</a>, values are a belief that something is good or desirable and worth striving for, regardless of context or circumstance.
 
-I recently embarked on a journey to define the values that I hold dear. This is a never-ending journey and these values are subject to review and change, but I have listed the things that I currently value. I plan to write about this in more detail in the near future.
+I recently embarked on a journey to define the values that I hold dear. This is a never-ending journey and these values are subject to review and change, but I have listed the things that are currently important to me. I plan to write about this in more detail in the near future.
 
 ### Humility
 
@@ -43,6 +43,16 @@ I value making space for diverse opinions and perspectives. I have lost count of
 
 ---
 
+## The "Just Sharing" Principle
+
+> “Here's what worked for us in our context, but I recognize that your context is different”
+
+I first heard of <a href="https://justsharing.dev/" target="_blank" rel="noopener noreferrer">the "Just Sharing" principle</a> when listening to a talk by Woody Zuill and it really struck a chord with me.
+
+Everything that I share on this site is based on my own experiences and context. I make no assumptions that the reader shares this or that the suggestions I make will work for everyone.
+
+---
+
 ## Interests
 
 Whilst software delivery takes up a lot of my time, it doesn't consume my entire life. My other interests include:
@@ -50,5 +60,5 @@ Whilst software delivery takes up a lot of my time, it doesn't consume my entire
 * 👨‍👩‍👧 Spending time with my wife and daughter
 * 🎸 Playing guitar - I have previously played in "pub bands" but more recently I just play for my own benefit
 * 🎵 Going to gigs - I love listening to music at home but there's nothing quite like watching a band at the top of their game in the flesh
-* ⚽ Football - I have played regularly my entire adult life but these days I am mostly consigned to watching on TV
+* ⚽ Football - I have played regularly my entire life but these days I am mostly consigned to watching on TV
 * 🐕 Walking Dusty, my Cavalier King Charles Spaniel 
