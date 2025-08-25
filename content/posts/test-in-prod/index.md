@@ -10,7 +10,9 @@ In this post, I’ll share how testing in production and working closely with us
 
 ## What does it mean to test in production?
 
-{{< figure src="i-dont-always-test.jpg" width="400">}}
+<div style="display:flex; justify-content:center;">
+    {{< figure src="i-dont-always-test.jpg" width="400">}}
+</div>
 
 I first came across the concept of testing in production from a Principal Engineer I worked with when I was a junior developer. It initially filled me with a lot of fears. What if I mess up some real-user data or settings? What if I bring the entire system down? I’ve already tested in a staging environment so why do I need to test in production? It felt at odds with everything I’d been told about keeping production locked down to end users and admins, with testing done in a “safe” environment. I refrained from doing this at the time as it seemed too risky.
 

@@ -6,7 +6,6 @@ theme = 'PaperMod'
 [params]
   homeInfoParams = { Title = "Hi 👋", Content = "I'm a Senior Software Engineer..." }
   ShowReadingTime = true
-  ShowShareButtons = true
   ShowCodeCopyButtons = true
 
 [menu]
@@ -24,3 +23,6 @@ theme = 'PaperMod'
     name = "Projects"
     url = "/projects/"
     weight = 3
+
+[markup.goldmark.renderer]
+  unsafe = true
