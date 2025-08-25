@@ -8,6 +8,8 @@ Ever shipped a feature that didn’t solve your customers problem or struggled t
 
 In this post, I’ll share how testing in production and working closely with users has helped me close that gap and deliver changes that truly work for customers.
 
+<!--more-->
+
 ## What does it mean to test in production?
 
 <div style="display:flex; justify-content:center;">
