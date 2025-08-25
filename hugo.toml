@@ -20,10 +20,5 @@ theme = 'PaperMod'
     url = "/posts/"
     weight = 2
 
-  [[menu.main]]
-    name = "Projects"
-    url = "/projects/"
-    weight = 3
-
 [markup.goldmark.renderer]
   unsafe = true
