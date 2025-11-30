@@ -1,8 +1,8 @@
 ---
 title: "Has AI made us faster?"
 date: 2025-11-30
-draft: true
-summary: "I was recently asked whether AI had helped us deliver a significant piece of work faster. The 2025 DORA State of AI-Assisted Software Development report has helped me to identify a set of questions that help answer this question."
+draft: false
+summary: "I was recently asked whether AI had helped the team deliver a significant piece of work faster. The 2025 DORA State of AI-Assisted Software Development report has helped me to identify a set of questions thet assess the real impact of AI on delivery performance."
 ---
 
 I've been using AI assistance in my day to day engineering work since June this year. 
@@ -69,7 +69,7 @@ This capability relates to ensuring AI models are trained on good internal data.
 
 AI tools that are trained on a general set of knowledge can help developers feel more productive but the findings of the report show that the impact can be increased when AI tools are connected to internal data sources that provide company-specific context.
 
-For example, if the engineering team have ADRs defined in an external source, such as Notion, then giving the AI tools context of these will likely yield positive benefits.
+For example, if the engineering team have ADRs defined in an external source, then giving the AI tools context of these will likely yield positive benefits.
 
 ### Strong version control practices
 
