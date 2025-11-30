@@ -2,14 +2,14 @@
 title: "Has AI made us faster?"
 date: 2025-11-30
 draft: false
-summary: "I was recently asked whether AI had helped the team deliver a significant piece of work faster. The 2025 DORA State of AI-Assisted Software Development report has helped me to identify a set of questions thet assess the real impact of AI on delivery performance."
+summary: "I was recently asked whether AI had helped the team deliver a significant piece of work faster. I struggled to answer the question as I had no reliable way of measuring whether it had actually made a difference. The 2025 DORA State of AI-Assisted Software Development report has helped me to identify a set of questions thet assess the real impact of AI on delivery performance."
 ---
 
 I've been using AI assistance in my day to day engineering work since June this year. 
 
-After delivering a significant piece of work, I was asked whether AI had helped us deliver it faster. I struggled to answer the question as I had no reliable way of measuring whether it had actually made a difference.
+After delivering a recent significant piece of work, I was asked whether AI had helped us deliver it faster. I struggled to answer the question as I had no reliable way of measuring whether it had actually made a difference.
 
-It wasn’t until I came across the 2025 DORA State of AI-Assisted Software Development report that I gained clarity over what’s required to achieve meaningful productivity gains when adopting AI. The report highlighted that AI’s impact can only be measured by taking into account the capabilities of an organisations underlying system rather than by intuition alone:
+It wasn’t until I came across the 2025 DORA State of AI-Assisted Software Development report that I gained clarity over what’s required to achieve meaningful productivity gains when adopting AI. The report highlighted that AI’s impact can only be measured by taking into account the capabilities of an organisations underlying system rather than by intuition alone.
 
 > AI’s primary role in software development is that of an amplifier. It magnifies the strengths of high performing organizations and the dysfunctions of struggling ones.
 > 
