@@ -2,7 +2,7 @@
 title: "Has AI made us faster?"
 date: 2025-11-30
 draft: false
-summary: "I was recently asked whether AI had helped the team deliver a significant piece of work faster. I struggled to answer the question as I had no reliable way of measuring whether it had actually made a difference. The 2025 DORA State of AI-Assisted Software Development report has helped me to identify a set of questions thet assess the real impact of AI on delivery performance."
+summary: "I was recently asked whether AI had helped the team deliver a significant piece of work faster. I struggled to answer the question as I had no reliable way of measuring whether it had actually made a difference. The 2025 DORA State of AI-Assisted Software Development report has helped me to identify a set of questions that assess the real impact of AI on delivery performance."
 ---
 
 I've been using AI assistance in my day to day engineering work since June this year. 
