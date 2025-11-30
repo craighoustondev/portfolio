@@ -10,3 +10,8 @@
   border-radius: 0.5rem;
   text-align: center;
 }
+/* Show full summary text without truncation */
+.entry-content {
+  -webkit-line-clamp: unset !important;
+  overflow: visible;
+}
